@@ -1,6 +1,7 @@
 # Data Sweeper Pro
 
 Data Sweeper Pro is an advanced data transformation and analysis tool built with Streamlit that provides enhanced cleaning, visualization, and processing capabilities for CSV and Excel files.
+here is the url of streamlit  https://datavisual-qcqgupkseqhfowycmukpws.streamlit.app/
 
 ## Features
 
@@ -65,12 +66,4 @@ Data Sweeper Pro is an advanced data transformation and analysis tool built with
 
 ## Author
 
-Ajmal Khan (128520849+Ajmalniz@users.noreply.github.com)
-
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
+Ajmal Khan (aknizamani@gmail.com)
